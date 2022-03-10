@@ -1,0 +1,9 @@
+# ninja log v5
+23	2269	6685270166799842	src/CMakeFiles/Homework_25_2.dir/gpu.cpp.obj	832f0abed619144a
+1	467	6686361707089517	build.ninja	65f22802128f70cd
+1512	2771	6684589462525196	src/Homework_25_2.exe	cab1623772568e0a
+5	1986	6685270162650926	src/CMakeFiles/Homework_25_2.dir/cpu.cpp.obj	36927a59d7bbfb1f
+14	2087	6685270165214073	src/CMakeFiles/Homework_25_2.dir/kbd.cpp.obj	932f3462a9876bab
+1	404	6685477378660112	src/CMakeFiles/Homework_25_2.dir/ram.cpp.obj	b8510b5cf14dcec
+19	2112	6685270165263964	src/CMakeFiles/Homework_25_2.dir/disk.cpp.obj	e7ea56366bce5a6e
+1	1026	6685465836734904	src/CMakeFiles/Homework_25_2.dir/main.cpp.obj	21eda47b691384a
